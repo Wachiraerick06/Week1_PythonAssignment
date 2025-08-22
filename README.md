@@ -1,2 +1,2 @@
 # introduction to python
-## writting a python code requires patience😆
+## writing a python code requires patience😆
